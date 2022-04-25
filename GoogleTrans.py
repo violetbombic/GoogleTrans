@@ -9,5 +9,5 @@ st.write(word_it.text)
 st.write("Do you want me to continue? Write 'no' in case not.")
 if word == 'no':
   st.write("OK, Goodbye!")
-  break
+
 
